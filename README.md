@@ -1,3 +1,3 @@
-# Coding_test
-### Programmers
+# Algorithm
+
 
